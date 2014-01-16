@@ -1,6 +1,6 @@
 ****
 
-1)  These files haven't included any images of the manual. words only.
+1)  These files didn't include any images of the manual. words only.
 
 2)  All the links represent "Next article"  are direct to the original English web page.
 
